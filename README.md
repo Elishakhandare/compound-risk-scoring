@@ -126,6 +126,3 @@ Other Outputs:
 | Gas usage               | Helps distinguish bots |
 ---
 
-## 👨‍💻 Author
-Rusheil Singh Baath  
-B.Tech CSE (AI & Data Science)
